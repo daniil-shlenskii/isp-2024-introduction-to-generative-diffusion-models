@@ -1,4 +1,4 @@
-# Introduction to generative Diffusion Models
+# Introduction to generative Diffusion Models (ISP-2024)
 
 ## Description
 
