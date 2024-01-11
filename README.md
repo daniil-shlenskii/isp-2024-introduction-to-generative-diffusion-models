@@ -6,4 +6,5 @@
 
 | # | Date | Description | Lecture notes | Extra materials |
 |---|---|---|---|---|
-| 1 | January, 11 | TBA  | TBA | TBA |
+| 1 | January, 11 | Math basics recap. Intuition behind Diffusion Models. Forward and Backward processes. ELBO derivation | [slides](lectures/lecture1.pdf) | - |
+| 1 | January, 12 | TBA | TBA | TBA |
