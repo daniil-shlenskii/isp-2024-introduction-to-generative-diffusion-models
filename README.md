@@ -8,3 +8,4 @@
 | 2 | January, 12 | DDPM objective derivation. Training and Sampling procedures.  | [notes](lectures/lecture_2.png) | [DDPM paper](https://arxiv.org/abs/2006.11239) |
 | 3 | January, 15 | Coding a diffusion model.  | - | - |
 | 4 | January, 16 | Faster sampling techniques: iDDPM and DDIM. Classifier guidance, classifier-free guidance. | [notes](lectures/lecture_2.png) | [iDDPM paper](https://arxiv.org/abs/2102.09672), [DDIM paper](https://arxiv.org/abs/2010.02502), [Classifier guidance paper](https://arxiv.org/abs/2105.05233), [Classifier-free guidance paper](https://arxiv.org/abs/2207.12598)|
+| 5 | January, 17 | Coding a faster sampling technique from iDDPM paper and a classifier-free guidance technique. Classifier guidance, classifier-free guidance. | - | - |
